@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="803858b3-e06b-40d3-ab5a-1760304b46cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/searches/CatalogoLivros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/searches/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/searches/SomaNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/sort/OrdenacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/sort/OrdenacaoPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/exercises/lists/sort/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/exercises/lists/searches/CatalogoLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/exercises/lists/searches/CatalogoLivros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +41,26 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/felipe.coelho/Documents/programms/colecoes-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/home/felipe/Downloads/colecoes-java/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/felipe.coelho/Documents/programms/colecoes-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/felipe/Downloads/colecoes-java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ListaTarefa" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.exercises.lists.operations.ListaTarefa" />
@@ -90,7 +91,9 @@
       <workItem from="1692819667232" duration="572000" />
       <workItem from="1692820298042" duration="3714000" />
       <workItem from="1692898895953" duration="328000" />
-      <workItem from="1694545142409" duration="3301000" />
+      <workItem from="1694545142409" duration="3338000" />
+      <workItem from="1695065503505" duration="542000" />
+      <workItem from="1695066068360" duration="3253000" />
     </task>
     <servers />
   </component>
