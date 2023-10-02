@@ -32,16 +32,16 @@ public class ConjuntoConvidados {
         ConjuntoConvidados conjuntoConvidados = new ConjuntoConvidados();
         System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " dentro do Set de Convidados");
 
-//        conjuntoConvidados.addConvidado("Convidado 1", 1234);
-//        conjuntoConvidados.addConvidado("Convidado 2", 1235);
-//        conjuntoConvidados.addConvidado("Convidado 3", 1235);
-//        conjuntoConvidados.addConvidado("Convidado 4", 1236);
-//
-//        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " dentro do Set de Convidados");
-//
-//        conjuntoConvidados.removeConvidadoPorCodigoConvite(1234);
-//        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " dentro do Set de Convidados");
-//
-//        conjuntoConvidados.exibirConvidados();
+        conjuntoConvidados.addConvidado("Convidado 1", 1234);
+        conjuntoConvidados.addConvidado("Convidado 2", 1235);
+        conjuntoConvidados.addConvidado("Convidado 3", 1235);
+        conjuntoConvidados.addConvidado("Convidado 4", 1236);
+
+        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " dentro do Set de Convidados");
+
+        conjuntoConvidados.removeConvidadoPorCodigoConvite(1234);
+        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " dentro do Set de Convidados");
+
+        conjuntoConvidados.exibirConvidados();
     }
 }
